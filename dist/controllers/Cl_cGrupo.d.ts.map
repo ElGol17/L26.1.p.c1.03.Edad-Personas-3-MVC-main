@@ -1,0 +1,1 @@
+{"version":3,"file":"Cl_cGrupo.d.ts","sourceRoot":"","sources":["../../src/controllers/Cl_cGrupo.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,2BAA2B,CAAC;AAE1D,MAAM,CAAC,OAAO,OAAO,SAAS;IAC1B,OAAO,CAAC,MAAM,CAAY;IAC1B,OAAO,CAAC,MAAM,CAAW;gBAEb,KAAK,EAAE,QAAQ;IAO3B,eAAe;CAyBlB"}
